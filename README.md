@@ -1,2 +1,2 @@
 # GCDesc
-train.py and .pth will be released soon
+The train.py will be released soon.
